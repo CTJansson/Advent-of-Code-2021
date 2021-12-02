@@ -25,8 +25,9 @@ public static class DayOne
                 }
             }    
         }
-
+        Console.WriteLine("Advent of Code - Day 1:");
         Console.WriteLine("Part A: " + increamentPartA.ToString());
         Console.WriteLine("Part B: " + increamentPartB.ToString());
+        Console.WriteLine("-------------------------------------");
     }
 }
